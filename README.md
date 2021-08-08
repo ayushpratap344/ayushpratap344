@@ -16,11 +16,12 @@
 
 ## I'm a Competitive Coder and a Front End Web Developer!
 
-- 💰 Want to start my startup !!
+- 💰 Contact for freelancing--open to work !!
 - 🔭 I’m currently learning ReactJS .
 - 👯 Open for Collaboration .
-- 🥅 2021 Goals: Backend Web Dev & to develop some more cool projects. 
-- ⚡ Life is listening music 🎧 and travel 🏝.
+- 🥅 2021 Goals: Backend Web Dev & to develop some more projects. 
+- ⚡ Life is listening music 🎧 and travel 🏝 with a cup of coffee
+☕
 
 
 
@@ -46,12 +47,14 @@
 <br/>
 
 
-### Soul Vibes Playing 🎧
+### Play Soul Vibes 🎧
+    https://ayushpratap344.github.io/The-Soul-Vibes/
+    
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" /> 
-<!--   ![Lav's github stats](https://github-readme-stats.vercel.app/api?username=ayushpratap344)
+<!--   ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushpratap344)
  -->
-<!-- ![Lav's github stats]() -->
+<!-- ![Ayush's github stats]() -->
 </details>
 
 - 💬 Ask me about anything, I will like to help!!
