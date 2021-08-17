@@ -48,8 +48,8 @@
 <br/>
 
 
-### Play Soul Vibes 🎧
-    https://ayushpratap344.github.io/The-Soul-Vibes/
+### Play Soul Vibes 🎧 : https://ayushpratap344.github.io/The-Soul-Vibes/ <br>
+### Check Covid Stats and VAccine Availability : https://covihelp.netlify.app/ <br>
     
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" /> 
@@ -67,3 +67,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ayushpratap344/count.svg" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratap344&" alt="ayushpratap344" /></p>
