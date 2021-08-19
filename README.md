@@ -48,7 +48,7 @@
 <br/>
 
 ### Check Covid Stats and Vaccine Availability : https://covihelp.netlify.app/ <br>
-    
+ <details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" /> 
 <!--   ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushpratap344)
