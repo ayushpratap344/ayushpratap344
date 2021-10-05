@@ -40,21 +40,33 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://github.com/ayushpratap344">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap344&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap344&theme=dracula&hide_langs_below=1" />
+</a>
+  <br/>
+  <br/>
+<br/>
+  <a href="https://github.com/ayushpratap344">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344&show_icons=true&theme=dracula&line_height=27" alt="Ayush's github stats"/>
 </a>
 
 </section>
 <br/>
 <br/>
-
-### Check Covid Stats and Vaccine Availability : https://covihelp.netlify.app/ <br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
  <details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" /> 
-<!--   ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushpratap344)
- -->
-<!-- ![Ayush's github stats]() -->
 </details>
+
+
+### Check Covid Stats and Vaccine Availability : https://covihelp.netlify.app/ <br>
 
 - 💬 Ask me about anything, I will like to help!!
 - 📫 How to reach me: ayushpratap344@gmail.com
