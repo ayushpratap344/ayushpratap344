@@ -40,7 +40,7 @@
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://github.com/ayushpratap344">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap344&theme=dracula&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap344&theme=dracula" />
 </a>
   <br/>
   <br/>
@@ -62,7 +62,7 @@
 <br/>
  <details>
   <summary>:zap: Github Stats</summary>
-   <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344" /> 
+   <img align="left" alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushpratap344&theme=dracula" /> 
 </details>
 
 
