@@ -14,30 +14,14 @@
 </a>
 <br/>
 
-## I'm a Competitive Coder and a Front End Web Developer!
+## I'm a Competitive Coder!
 
 - 💰 Contact for freelancing--open to work !!
-- 🔭 I’m currently learning ReactJS .
 - 👯 Open for Collaboration .
-- 🥅 2021 Goals: Backend Web Dev & to develop some more projects. 
+- 🥅 2021 Goals: Reach Expert on CF and Top 1000 in Leetcode. 
 - ⚡ Life is listening music 🎧 and travel 🏝 with a cup of coffee
 ☕
 
-
-
-### Languages and Tools:
-
-<section>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://github.com/ayushpratap344">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap344&theme=dracula" />
