@@ -17,8 +17,6 @@
 ## I'm a Competitive Coder!
 
 - 💰 Contact for freelancing--open to work !!
-- 👯 Open for Collaboration .
-- 🥅 2021 Goals: Reach Expert on CF and Top 1000 in Leetcode. 
 - ⚡ Life is listening music 🎧 and travel 🏝 with a cup of coffee
 ☕
 
